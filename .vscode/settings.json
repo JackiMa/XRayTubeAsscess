@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.mac": "shellscript",
+        "*.icc": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp"
+    }
+}
